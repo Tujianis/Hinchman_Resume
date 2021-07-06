@@ -3,10 +3,10 @@ layout: cv
 title: Benjamin Hinchman's Resume
 ---
 <center><span style= "font-size:2.5em;">Benjamin Hinchman
-</span>
+</span></center>
 
-610-930-3487
-<div id="webaddress">
+<center>610-930-3487</center>
+<center><div id="webaddress">
 <a href="ben.hinchman@gmail.com">ben.hinchman@gmail.com</a>
 | <a href="https://www.linkedin.com/in/benjamin-hinchman-32542017a/">LinkedIn</a>
 | <a href="https://github.com/Tujianis">GitHub</a>
