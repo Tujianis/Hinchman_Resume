@@ -19,6 +19,7 @@ title: Benjamin Hinchman's Resume
 `2017-2021`
 __Brigham Young University - Idaho__, Rexburg, ID
 
+- Major: Computer Science
 - 3.0 GPA
 
 `Expected 2022`
@@ -39,7 +40,7 @@ Fluent in English, German
 __Billing and Data Specialist__, Alliance Medication Services
 
 
-`2015-2026`
+`2015-2016`
 __Service Missionary__, Germany
 
 
